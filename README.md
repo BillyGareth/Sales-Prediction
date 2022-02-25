@@ -1,5 +1,12 @@
 # Grocery Sales Forecasting
 
+In the past two years, there has been a shift in how supermarket supply chains function. A report by Acosta, a US-based sales and marketing agency, on grocery store trends for 2021 indicates that 46% of people now use online delivery more than they did before the pandemic. 
+
+A shift from physical grocery stores to digital grocery stores is indicative of a shift from traditional shopping practices to demand-driven buying practices. When demand can be anticipated with accuracy, it can be delivered efficiently with demand forecasting techniques. 
+
+Supermarkets have multiple touchpoints when attracting a customer base. These include psychological, social, cultural, and economic touchpoints. Even a moderate variation in any of these factors leads to a varied demand dynamic. Therefore, it is essential to switch to a supply chain model that acts on the forecasted demand to cut down wastages, enhance viability and eliminate bottlenecks.
+
+
 # Abstract
 
 Product sales forecasting is a major aspect of purchasing management. Forecasts are crucial in
